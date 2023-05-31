@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Fix Multi-GPU resume bug (#7328)
