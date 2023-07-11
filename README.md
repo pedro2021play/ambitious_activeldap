@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
