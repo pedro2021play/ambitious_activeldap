@@ -1,1 +1,1 @@
-fix val each epoch
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
