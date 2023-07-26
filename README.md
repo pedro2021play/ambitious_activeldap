@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix heatmaps width-height order bug (#7184)
