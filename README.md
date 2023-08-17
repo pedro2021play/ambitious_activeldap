@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add docstrings to new HUB functions (#7576)
