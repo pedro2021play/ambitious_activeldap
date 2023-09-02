@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
