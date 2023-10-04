@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update CITATION.cff with cffinit corrections (#8658)
