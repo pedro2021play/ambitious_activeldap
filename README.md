@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
