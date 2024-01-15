@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Improve Docs Modes tables (#8266)
