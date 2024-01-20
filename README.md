@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
