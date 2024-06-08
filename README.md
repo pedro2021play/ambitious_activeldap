@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
