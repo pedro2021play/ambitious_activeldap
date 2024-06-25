@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
