@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
