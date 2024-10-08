@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+OBB: update metrics (#7593)
