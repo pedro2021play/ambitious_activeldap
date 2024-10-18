@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
